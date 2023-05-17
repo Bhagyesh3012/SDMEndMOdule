@@ -1,0 +1,23 @@
+Business Entity-
+
+org-	
+	org id
+	name
+	address		
+	job titles
+	
+user-
+	name
+	mob no
+	qualifications
+	year of experience
+	previous job
+
+staff-
+	org id
+	org name
+	name
+	staff position/title
+	total no of staffs
+		
+
