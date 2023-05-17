@@ -1,0 +1,41 @@
+Software Requirement Specification for Employee Recruitment System-
+
+Need-
+	In previous few to ten years job seekers have to walk through the particular organisation to see if thier are any job positions are available or not. so not knowing the organisation requirements thier is waste of time for both recruitment organisations and the canidates.
+
+Purpose-
+	The primary purpose to develop this system is to optimize the recuritment process for an organisation.
+
+Functional Requirements:-
+user login and registration-
+	user should be able to login to the system in he/she has created account already. Otherwise user should be redirected to the registration page, where he/she has to fill up registration details.
+
+Candidate application-
+	user should be able to view particular organisation for thier matching qualification and will be able to apply for the given job.
+
+Organisation Requirement/recruitment-
+	Particular Organisation can add thier requirements for recruiment process.
+Candidate should be able to add their CV/Resume on the particular organisation page. where Organisation can select particular candidate according to matching CV.
+	
+	If any staff position is empty then in that case Organisation can also add another section for staff positions to fill up their staff. and user/candidate can also be able to apply for organisation's staff positions.
+
+	Organisation should be able to view uploaded candidate's CV and thier profile for shortlist the candidate for further examination process or interview process.
+
+
+Non-Functional Requirements-
+Security-
+	Organisation have the privacy to keep thier internal staff profile hidden from  the other user. only admin can add or delete the Organisation details only if the organisation is authorized. 
+
+Authentication-
+	users have to provide their email address for authenticate thier integrity an 6 digit code should be provided to the user for complete their verification process.	
+
+Authorization-
+	Organisation can only add candidate to their organisation if the cadidate/organisation is authorized to do so.	
+
+Robust-
+	In case any failure occure to the system whether it is natural or outside user hacking, the system should run smoothly to the other servers ,while keeping the servers open all the time.
+
+		
+
+
+
